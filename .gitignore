@@ -1,0 +1,5 @@
+*.pyc
+__pacache__
+myvnev
+db.sqlite3
+.DS_Store
