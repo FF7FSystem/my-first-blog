@@ -1,5 +1,5 @@
 *.pyc
 __pacache__
-myvnev
+myvenv
 db.sqlite3
 .DS_Store
